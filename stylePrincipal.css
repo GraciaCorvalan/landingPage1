@@ -125,9 +125,7 @@ body{
 .fondobuscador{
     position: absolute;
 }
-.fondobuscador img {
-    width: 100%;
-}
+
 .forma{
     width: 60%;
     display: block;
